@@ -1,0 +1,551 @@
+ID,Data,Produto,Categoria,Quantidade,Preço
+34151.0,02/01/2023,Batom,Maquiagem,2,29.9
+41535.0,03/01/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+34151.0,03/01/2023,Batom,Maquiagem,4,29.9
+34151.0,04/01/2023,Batom,Maquiagem,4,29.9
+55678.0,04/01/2023,Shampoo,Cuidados com os cabelos,3,18.5
+55678.0,05/01/2023,Shampoo,Cuidados com os cabelos,3,18.5
+41535.0,05/01/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+55678.0,06/01/2023,Shampoo,Cuidados com os cabelos,3,18.5
+35658.0,06/01/2023,Condicionador,Cuidados com os cabelos,4,21.5
+13535.0,07/01/2023,Esmalte Rosa,Unhas,5,9.9
+87765.0,07/01/2023,Protetor solar,Cuidados com a pele,2,50.0
+87725.0,07/01/2023,Sabonete Líquido,Cuidados com o corpo,1,11.99
+35367.0,07/01/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+35367.0,09/01/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+78675.0,09/01/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+16532.0,10/01/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+78675.0,10/01/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,11/01/2023,Óleo Capilar,Cuidados com os cabelos,4,14.99
+78675.0,11/01/2023,Kit Pincéis de Maquiagem,Maquiagem,5,49.99
+98111.0,12/01/2023,Removedor de Maquiagem,Maquiagem,3,9.99
+81196.0,13/01/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+34151.0,14/01/2023,Batom,Maquiagem,3,29.9
+41535.0,14/01/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+87765.0,14/01/2023,Protetor solar,Cuidados com a pele,4,50.0
+35367.0,14/01/2023,Creme para Mãos,Cuidados com o corpo,5,18.75
+78675.0,14/01/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+16532.0,14/01/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+81196.0,16/01/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+66654.0,16/01/2023,Tônico Capilar,Cuidados com os cabelos,3,28.99
+66654.0,17/01/2023,Tônico Capilar,Cuidados com os cabelos,4,29.99
+54321.0,17/01/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+54321.0,18/01/2023,Creme para Mãos,Cuidados com o corpo,1,19.75
+34151.0,19/01/2023,Batom,Maquiagem,2,29.9
+54321.0,19/01/2023,Creme para Mãos,Cuidados com o corpo,4,18.75
+66654.0,20/01/2023,Tônico Capilar,Cuidados com os cabelos,5,30.99
+34151.0,21/01/2023,Batom,Maquiagem,3,29.9
+13535.0,21/01/2023,Esmalte vermelho,Unhas,3,9.99
+83241.0,23/01/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,4,31.99
+13535.0,24/01/2023,Esmalte vermelho,Unhas,2,9.99
+76859.0,24/01/2023,Kit de Cuidados com as Unhas,Unhas,1,35.85
+13535.0,25/01/2023,Esmalte vermelho,Unhas,2,9.99
+76859.0,26/01/2023,Kit de Cuidados com as Unhas,Unhas,1,35.85
+76859.0,27/01/2023,Kit de Cuidados com as Unhas,Unhas,1,35.85
+69857.0,27/01/2023,Máscara Facial,Cuidadados com a pele,1,22.99
+77565.0,28/01/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,28/01/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+69857.0,28/01/2023,Máscara Facial,Cuidadados com a pele,1,22.99
+69857.0,30/01/2023,Máscara Facial,Cuidadados com a pele,2,22.99
+69857.0,31/01/2023,Máscara Facial,Cuidadados com a pele,1,22.99
+77564.0,01/02/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77564.0,02/02/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,03/02/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77565.0,04/02/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77564.0,06/02/2023,Shampoo Matizador,Cuidados com os cabelos,5,26.99
+77565.0,06/02/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77567.0,07/02/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+88769.0,07/02/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,1,41.99
+13535.0,08/02/2023,Esmalte vermelho,Unhas,2,9.99
+88769.0,08/02/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,3,41.99
+77567.0,09/02/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,3,61.99
+88769.0,09/02/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,2,41.99
+88769.0,10/02/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,1,41.99
+13535.0,11/02/2023,Esmalte Rosa,Unhas,1,9.9
+81111.0,11/02/2023,Removedor de Esmalte,Unhas,1,8.99
+81111.0,11/11/2023,Removedor de Esmalte,Unhas,2,8.99
+34586.0,13/02/2023,Batom Líquido,Maquiagem,3,27.99
+34586.0,15/02/2023,Batom Líquido,Maquiagem,5,27.99
+74522.0,15/02/2023,Sabonete Facial,Cuidados com a pele,2,25.99
+41535.0,15/02/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+34151.0,16/02/2023,Batom,Maquiagem,2,29.9
+34151.0,17/02/2023,Batom,Maquiagem,2,29.9
+55678.0,17/02/2023,Shampoo,Cuidados com os cabelos,2,18.5
+55678.0,18/02/2023,Shampoo,Cuidados com os cabelos,3,18.5
+41535.0,18/02/2023,Hidratante Facial,Cuidados com a pele,4,44.99
+35658.0,18/02/2023,Condicionador,Cuidados com os cabelos,2,21.5
+13535.0,18/02/2023,Esmalte Rosa,Unhas,1,9.9
+87765.0,20/02/2023,Protetor solar,Cuidados com a pele,1,50.0
+87725.0,21/02/2023,Sabonete Líquido,Cuidados com o corpo,3,11.99
+35367.0,22/02/2023,Creme para Mãos,Cuidados com o corpo,4,18.75
+35367.0,23/02/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+78675.0,24/02/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,25/02/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+78675.0,25/02/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+54321.0,25/02/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+66654.0,25/02/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,25/02/2023,Batom,Maquiagem,1,29.9
+83241.0,27/02/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,1,31.99
+13535.0,28/02/2023,Esmalte vermelho,Unhas,1,9.99
+76859.0,01/03/2023,Kit de Cuidados com as Unhas,Unhas,2,35.85
+13535.0,02/03/2023,Esmalte vermelho,Unhas,6,9.99
+76859.0,03/03/2023,Kit de Cuidados com as Unhas,Unhas,4,35.85
+76859.0,04/03/2023,Kit de Cuidados com as Unhas,Unhas,5,35.85
+69857.0,04/03/2023,Máscara Facial,Cuidadados com a pele,2,22.99
+77564.0,06/03/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,06/03/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,07/03/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,07/03/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77567.0,07/03/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,4,61.99
+34151.0,07/03/2023,Batom,Maquiagem,1,29.9
+34151.0,08/03/2023,Batom,Maquiagem,2,29.9
+13535.0,09/03/2023,Esmalte vermelho,Unhas,1,9.99
+98111.0,09/03/2023,Removedor de Maquiagem,Maquiagem,3,9.99
+81196.0,10/03/2023,Máscara Capilar,Cuidados com os cabelos,4,21.99
+98111.0,10/03/2023,Removedor de Maquiagem,Maquiagem,5,9.99
+98111.0,11/03/2023,Removedor de Maquiagem,Maquiagem,3,10.99
+13535.0,11/03/2023,Esmalte vermelho,Unhas,2,9.99
+77564.0,13/03/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,13/03/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,13/03/2023,Esmalte vermelho,Unhas,1,9.99
+98111.0,14/03/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+77564.0,15/03/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,15/03/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+13535.0,15/03/2023,Esmalte vermelho,Unhas,1,9.99
+13535.0,16/03/2023,Esmalte vermelho,Unhas,2,9.99
+13535.0,17/03/2023,Esmalte vermelho,Unhas,2,9.99
+34151.0,17/03/2023,Batom,Maquiagem,3,29.9
+41535.0,18/03/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+87765.0,18/03/2023,Protetor solar,Cuidados com a pele,3,50.0
+35367.0,18/03/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+78675.0,18/03/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+16532.0,20/03/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+13535.0,20/03/2023,Esmalte vermelho,Unhas,2,9.99
+78675.0,20/03/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,21/03/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+78675.0,21/03/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+54321.0,22/03/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+66654.0,22/03/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,23/03/2023,Batom,Maquiagem,1,29.9
+83241.0,24/03/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,2,31.99
+13535.0,25/03/2023,Esmalte vermelho,Unhas,3,9.99
+98111.0,25/03/2023,Removedor de Maquiagem,Maquiagem,2,10.99
+13535.0,27/03/2023,Esmalte vermelho,Unhas,5,9.99
+77564.0,27/03/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,28/03/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,29/03/2023,Esmalte vermelho,Unhas,1,9.99
+98111.0,30/03/2023,Removedor de Maquiagem,Maquiagem,1,9.99
+98111.0,31/03/2023,Removedor de Maquiagem,Maquiagem,2,10.99
+13535.0,01/04/2023,Esmalte vermelho,Unhas,1,9.99
+35367.0,03/04/2023,Creme para Mãos,Cuidados com o corpo,4,18.75
+78675.0,04/04/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+16532.0,05/04/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+78675.0,05/04/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+54321.0,06/04/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+66654.0,06/04/2023,Tônico Capilar,Cuidados com os cabelos,2,30.99
+34151.0,07/04/2023,Batom,Maquiagem,2,29.9
+83241.0,07/04/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,4,31.99
+13535.0,08/04/2023,Esmalte vermelho,Unhas,5,9.99
+35367.0,08/04/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+16532.0,08/04/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+66654.0,10/04/2023,Tônico Capilar,Cuidados com os cabelos,3,30.99
+13535.0,10/04/2023,Esmalte vermelho,Unhas,4,9.99
+34151.0,11/04/2023,Batom,Maquiagem,5,29.9
+83241.0,11/04/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,2,31.99
+66654.0,12/04/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,12/04/2023,Batom,Maquiagem,3,29.9
+83241.0,13/04/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,4,31.99
+34151.0,14/04/2023,Batom,Maquiagem,3,29.9
+83241.0,15/04/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,2,31.99
+34151.0,15/04/2023,Batom,Maquiagem,3,29.9
+41535.0,15/04/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+34151.0,17/04/2023,Batom,Maquiagem,5,29.9
+55678.0,17/04/2023,Shampoo,Cuidados com os cabelos,3,18.5
+55678.0,18/04/2023,Shampoo,Cuidados com os cabelos,1,18.5
+41535.0,18/04/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+55678.0,19/04/2023,Shampoo,Cuidados com os cabelos,3,18.5
+35658.0,20/04/2023,Condicionador,Cuidados com os cabelos,2,21.5
+13535.0,20/04/2023,Esmalte Rosa,Unhas,4,9.9
+87765.0,21/04/2023,Protetor solar,Cuidados com a pele,5,50.0
+87725.0,22/04/2023,Sabonete Líquido,Cuidados com o corpo,3,11.99
+35367.0,22/04/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+35367.0,24/04/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+78675.0,25/04/2023,Kit Pincéis de Maquiagem,Maquiagem,4,49.99
+16532.0,26/04/2023,Óleo Capilar,Cuidados com os cabelos,5,14.99
+78675.0,27/04/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+16532.0,28/04/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+81196.0,29/04/2023,Máscara Capilar,Cuidados com os cabelos,2,21.99
+34151.0,29/04/2023,Batom,Maquiagem,4,29.9
+41535.0,01/05/2023,Hidratante Facial,Cuidados com a pele,5,44.99
+87765.0,02/05/2023,Protetor solar,Cuidados com a pele,3,50.0
+35367.0,03/05/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+78675.0,04/05/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+66654.0,05/05/2023,Tônico Capilar,Cuidados com os cabelos,3,29.99
+54321.0,06/05/2023,Creme para Mãos,Cuidados com o corpo,5,18.75
+66654.0,06/05/2023,Tônico Capilar,Cuidados com os cabelos,2,30.99
+34151.0,08/05/2023,Batom,Maquiagem,2,29.9
+66654.0,09/05/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+78675.0,09/05/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+66654.0,10/05/2023,Tônico Capilar,Cuidados com os cabelos,2,29.99
+66654.0,11/05/2023,Tônico Capilar,Cuidados com os cabelos,3,30.99
+41535.0,12/05/2023,Hidratante Facial,Cuidados com a pele,4,44.99
+13535.0,12/05/2023,Esmalte Rosa,Unhas,1,9.9
+16532.0,13/05/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+66654.0,13/05/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,13/05/2023,Batom,Maquiagem,3,29.9
+41535.0,15/05/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+34151.0,15/05/2023,Batom,Maquiagem,1,29.9
+55678.0,16/05/2023,Shampoo,Cuidados com os cabelos,3,18.5
+55678.0,17/05/2023,Shampoo,Cuidados com os cabelos,4,18.5
+35658.0,18/05/2023,Condicionador,Cuidados com os cabelos,5,21.5
+13535.0,19/05/2023,Esmalte Rosa,Unhas,3,9.9
+87765.0,20/05/2023,Protetor solar,Cuidados com a pele,1,50.0
+87725.0,20/05/2023,Sabonete Líquido,Cuidados com o corpo,2,11.99
+35367.0,22/05/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+16532.0,23/05/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+78675.0,24/05/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+78675.0,25/05/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+98111.0,26/05/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+81196.0,27/05/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+34151.0,27/05/2023,Batom,Maquiagem,1,29.9
+35367.0,29/05/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+78675.0,30/05/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,31/05/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+81196.0,01/06/2023,Máscara Capilar,Cuidados com os cabelos,6,21.99
+66654.0,02/06/2023,Tônico Capilar,Cuidados com os cabelos,3,28.99
+66654.0,03/06/2023,Tônico Capilar,Cuidados com os cabelos,4,29.99
+54321.0,05/06/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+34151.0,05/06/2023,Batom,Maquiagem,2,29.9
+41535.0,06/06/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+16532.0,06/06/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+98111.0,07/06/2023,Removedor de Maquiagem,Maquiagem,3,9.99
+78675.0,07/06/2023,Kit Pincéis de Maquiagem,Maquiagem,4,49.99
+16532.0,08/06/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+66654.0,08/06/2023,Tônico Capilar,Cuidados com os cabelos,2,28.99
+78675.0,08/06/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+41535.0,09/06/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+13535.0,10/06/2023,Esmalte Rosa,Unhas,3,9.9
+16532.0,10/06/2023,Óleo Capilar,Cuidados com os cabelos,4,14.99
+78675.0,10/06/2023,Kit Pincéis de Maquiagem,Maquiagem,5,49.99
+66654.0,12/06/2023,Tônico Capilar,Cuidados com os cabelos,2,30.99
+34151.0,12/06/2023,Batom,Maquiagem,1,29.9
+41535.0,13/06/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+34151.0,13/06/2023,Batom,Maquiagem,1,29.9
+55678.0,14/06/2023,Shampoo,Cuidados com os cabelos,1,18.5
+35658.0,14/06/2023,Condicionador,Cuidados com os cabelos,1,21.5
+13535.0,14/06/2023,Esmalte Rosa,Unhas,1,9.9
+87765.0,15/06/2023,Protetor solar,Cuidados com a pele,2,50.0
+87725.0,15/06/2023,Sabonete Líquido,Cuidados com o corpo,6,11.99
+98111.0,16/06/2023,Removedor de Maquiagem,Maquiagem,3,9.99
+81196.0,17/06/2023,Máscara Capilar,Cuidados com os cabelos,4,21.99
+34151.0,17/06/2023,Batom,Maquiagem,5,29.9
+35367.0,17/06/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+78675.0,17/06/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,19/06/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+81196.0,19/06/2023,Máscara Capilar,Cuidados com os cabelos,2,21.99
+66654.0,20/06/2023,Tônico Capilar,Cuidados com os cabelos,2,28.99
+66654.0,21/06/2023,Tônico Capilar,Cuidados com os cabelos,4,30.99
+54321.0,22/06/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+54321.0,23/06/2023,Creme para Mãos,Cuidados com o corpo,2,19.75
+34151.0,24/06/2023,Batom,Maquiagem,1,29.9
+41535.0,24/06/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+16532.0,24/06/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+98111.0,26/06/2023,Removedor de Maquiagem,Maquiagem,4,9.99
+78675.0,27/06/2023,Kit Pincéis de Maquiagem,Maquiagem,5,49.99
+16532.0,28/06/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+66654.0,29/06/2023,Tônico Capilar,Cuidados com os cabelos,1,28.99
+78675.0,30/06/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+41535.0,01/07/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+13535.0,01/07/2023,Esmalte Rosa,Unhas,2,9.9
+16532.0,03/07/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+34151.0,03/07/2023,Batom,Maquiagem,1,29.9
+41535.0,04/07/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+34151.0,05/07/2023,Batom,Maquiagem,1,29.9
+55678.0,06/07/2023,Shampoo,Cuidados com os cabelos,6,18.5
+41535.0,06/07/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+55678.0,07/07/2023,Shampoo,Cuidados com os cabelos,2,18.5
+35658.0,07/07/2023,Condicionador,Cuidados com os cabelos,1,21.5
+13535.0,08/07/2023,Esmalte Rosa,Unhas,2,9.9
+87765.0,08/07/2023,Protetor solar,Cuidados com a pele,2,50.0
+87725.0,08/07/2023,Sabonete Líquido,Cuidados com o corpo,3,11.99
+35367.0,08/07/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+78675.0,08/07/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+16532.0,08/07/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+16532.0,10/07/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+78675.0,10/07/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+98111.0,11/07/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+81196.0,11/07/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+81196.0,12/07/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+34151.0,12/07/2023,Batom,Maquiagem,1,29.9
+41535.0,13/07/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+87765.0,13/07/2023,Protetor solar,Cuidados com a pele,3,50.0
+35367.0,14/07/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+78675.0,14/07/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,15/07/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+81196.0,15/07/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+66654.0,15/07/2023,Tônico Capilar,Cuidados com os cabelos,2,28.99
+34151.0,15/07/2023,Batom,Maquiagem,4,29.9
+54321.0,17/07/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+66654.0,18/07/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,19/07/2023,Batom,Maquiagem,1,29.9
+34151.0,20/07/2023,Batom,Maquiagem,1,29.9
+34151.0,21/07/2023,Batom,Maquiagem,1,29.9
+13535.0,22/07/2023,Esmalte vermelho,Unhas,1,9.99
+83241.0,22/07/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,2,31.99
+13535.0,24/07/2023,Esmalte vermelho,Unhas,4,9.99
+76859.0,24/07/2023,Kit de Cuidados com as Unhas,Unhas,1,35.85
+13535.0,25/07/2023,Esmalte vermelho,Unhas,2,9.99
+76859.0,26/07/2023,Kit de Cuidados com as Unhas,Unhas,2,35.85
+69857.0,27/07/2023,Máscara Facial,Cuidadados com a pele,2,22.99
+77565.0,28/07/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77564.0,28/07/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+69857.0,29/07/2023,Máscara Facial,Cuidadados com a pele,3,22.99
+69857.0,31/07/2023,Máscara Facial,Cuidadados com a pele,1,22.99
+77564.0,01/08/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77564.0,02/08/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,03/08/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,04/08/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,04/08/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77567.0,05/08/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,2,61.99
+88769.0,05/08/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,2,41.99
+13535.0,05/08/2023,Esmalte vermelho,Unhas,2,9.99
+77567.0,07/08/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+88769.0,07/08/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,1,41.99
+88769.0,08/08/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,1,41.99
+13535.0,08/08/2023,Esmalte Rosa,Unhas,4,9.9
+81111.0,08/08/2023,Removedor de Esmalte,Unhas,4,8.99
+81111.0,09/08/2023,Removedor de Esmalte,Unhas,4,8.99
+13535.0,10/08/2023,Esmalte Rosa,Unhas,1,9.9
+34586.0,11/08/2023,Batom Líquido,Maquiagem,2,27.99
+34586.0,12/08/2023,Batom Líquido,Maquiagem,1,27.99
+74522.0,12/08/2023,Sabonete Facial,Cuidados com a pele,2,25.99
+41535.0,12/08/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+34151.0,14/08/2023,Batom,Maquiagem,3,29.9
+55678.0,15/08/2023,Shampoo,Cuidados com os cabelos,2,18.5
+55678.0,16/08/2023,Shampoo,Cuidados com os cabelos,1,18.5
+41535.0,16/08/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+55678.0,17/08/2023,Shampoo,Cuidados com os cabelos,1,18.5
+35658.0,17/08/2023,Condicionador,Cuidados com os cabelos,1,21.5
+13535.0,17/08/2023,Esmalte Rosa,Unhas,1,9.9
+87765.0,18/08/2023,Protetor solar,Cuidados com a pele,2,50.0
+87725.0,18/08/2023,Sabonete Líquido,Cuidados com o corpo,3,11.99
+35367.0,19/08/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+78675.0,21/08/2023,Kit Pincéis de Maquiagem,Maquiagem,3,49.99
+16532.0,22/08/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+78675.0,23/08/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+54321.0,24/08/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+66654.0,25/08/2023,Tônico Capilar,Cuidados com os cabelos,2,30.99
+34151.0,26/08/2023,Batom,Maquiagem,1,29.9
+83241.0,26/08/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,2,31.99
+13535.0,28/08/2023,Esmalte vermelho,Unhas,3,9.99
+77565.0,29/08/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+77565.0,30/08/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,31/08/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,01/09/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77567.0,02/09/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+34151.0,02/09/2023,Batom,Maquiagem,4,29.9
+34151.0,04/09/2023,Batom,Maquiagem,3,29.9
+13535.0,05/09/2023,Esmalte vermelho,Unhas,5,9.99
+81196.0,05/09/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+98111.0,05/09/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+13535.0,06/09/2023,Esmalte vermelho,Unhas,1,9.99
+13535.0,07/09/2023,Esmalte vermelho,Unhas,1,9.99
+77564.0,07/09/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77565.0,08/09/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,08/09/2023,Esmalte vermelho,Unhas,2,9.99
+13535.0,09/09/2023,Esmalte vermelho,Unhas,1,9.99
+98111.0,09/09/2023,Removedor de Maquiagem,Maquiagem,3,11.99
+77564.0,09/09/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,09/09/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,11/09/2023,Esmalte vermelho,Unhas,1,9.99
+13535.0,12/09/2023,Esmalte vermelho,Unhas,2,9.99
+13535.0,13/09/2023,Esmalte vermelho,Unhas,3,9.99
+34151.0,13/09/2023,Batom,Maquiagem,2,29.9
+34151.0,14/09/2023,Batom,Maquiagem,1,29.9
+41535.0,14/09/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+34151.0,15/09/2023,Batom,Maquiagem,3,29.9
+55678.0,15/09/2023,Shampoo,Cuidados com os cabelos,2,18.5
+55678.0,16/09/2023,Shampoo,Cuidados com os cabelos,1,18.5
+35658.0,17/09/2023,Condicionador,Cuidados com os cabelos,1,21.5
+13535.0,17/09/2023,Esmalte Rosa,Unhas,2,9.9
+87765.0,17/09/2023,Protetor solar,Cuidados com a pele,1,50.0
+87725.0,18/09/2023,Sabonete Líquido,Cuidados com o corpo,2,11.99
+35367.0,19/09/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+16532.0,20/09/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+78675.0,21/09/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+78675.0,22/09/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+98111.0,22/09/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+81196.0,23/09/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+34151.0,23/09/2023,Batom,Maquiagem,4,29.9
+35367.0,25/09/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+78675.0,26/09/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+16532.0,27/09/2023,Óleo Capilar,Cuidados com os cabelos,5,14.99
+81196.0,28/09/2023,Máscara Capilar,Cuidados com os cabelos,1,21.99
+66654.0,29/09/2023,Tônico Capilar,Cuidados com os cabelos,1,28.99
+66654.0,30/09/2023,Tônico Capilar,Cuidados com os cabelos,1,29.99
+54321.0,30/09/2023,Creme para Mãos,Cuidados com o corpo,3,18.75
+54321.0,02/10/2023,Creme para Mãos,Cuidados com o corpo,4,19.75
+34151.0,03/10/2023,Batom,Maquiagem,1,29.9
+41535.0,04/10/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+16532.0,05/10/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+98111.0,05/10/2023,Removedor de Maquiagem,Maquiagem,5,9.99
+78675.0,05/10/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+66654.0,06/10/2023,Tônico Capilar,Cuidados com os cabelos,1,28.99
+78675.0,06/10/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+41535.0,06/10/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+13535.0,07/10/2023,Esmalte Rosa,Unhas,1,9.9
+16532.0,07/10/2023,Óleo Capilar,Cuidados com os cabelos,3,14.99
+78675.0,07/10/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+66654.0,09/10/2023,Tônico Capilar,Cuidados com os cabelos,1,30.99
+34151.0,09/10/2023,Batom,Maquiagem,2,29.9
+41535.0,10/10/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+34151.0,10/10/2023,Batom,Maquiagem,1,29.9
+55678.0,10/10/2023,Shampoo,Cuidados com os cabelos,1,18.5
+35658.0,11/10/2023,Condicionador,Cuidados com os cabelos,1,21.5
+13535.0,11/10/2023,Esmalte Rosa,Unhas,1,9.9
+87765.0,12/10/2023,Protetor solar,Cuidados com a pele,1,50.0
+87725.0,13/10/2023,Sabonete Líquido,Cuidados com o corpo,2,11.99
+98111.0,13/10/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+81196.0,13/10/2023,Máscara Capilar,Cuidados com os cabelos,3,21.99
+34151.0,14/10/2023,Batom,Maquiagem,4,29.9
+35367.0,14/10/2023,Creme para Mãos,Cuidados com o corpo,2,18.75
+78675.0,14/10/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,14/10/2023,Óleo Capilar,Cuidados com os cabelos,2,14.99
+81196.0,14/10/2023,Máscara Capilar,Cuidados com os cabelos,4,21.99
+66654.0,14/10/2023,Tônico Capilar,Cuidados com os cabelos,5,28.99
+66654.0,16/10/2023,Tônico Capilar,Cuidados com os cabelos,5,29.99
+66654.0,17/10/2023,Tônico Capilar,Cuidados com os cabelos,3,30.99
+54321.0,17/10/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+54321.0,18/10/2023,Creme para Mãos,Cuidados com o corpo,5,19.75
+34151.0,18/10/2023,Batom,Maquiagem,1,29.9
+41535.0,19/10/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+16532.0,19/10/2023,Óleo Capilar,Cuidados com os cabelos,4,14.99
+98111.0,20/10/2023,Removedor de Maquiagem,Maquiagem,4,9.99
+78675.0,20/10/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,21/10/2023,Óleo Capilar,Cuidados com os cabelos,1,14.99
+66654.0,21/10/2023,Tônico Capilar,Cuidados com os cabelos,1,28.99
+78675.0,21/10/2023,Kit Pincéis de Maquiagem,Maquiagem,2,49.99
+41535.0,21/10/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+69857.0,23/10/2023,Máscara Facial,Cuidadados com a pele,6,22.99
+77564.0,24/10/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77564.0,25/10/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+77565.0,25/10/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+77565.0,26/10/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,27/10/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77565.0,28/10/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+77567.0,28/10/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+88769.0,30/10/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,1,41.99
+13535.0,31/10/2023,Esmalte vermelho,Unhas,1,9.99
+77567.0,01/11/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,2,61.99
+88769.0,02/11/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,4,41.99
+88769.0,03/11/2023,Kit Shampoo e Condicionador,Cuidados com os cabelos,4,41.99
+13535.0,04/11/2023,Esmalte Rosa,Unhas,4,9.9
+81111.0,04/11/2023,Removedor de Esmalte,Unhas,4,8.99
+81111.0,06/11/2023,Removedor de Esmalte,Unhas,4,8.99
+13535.0,06/11/2023,Esmalte Rosa,Unhas,4,9.9
+34586.0,06/11/2023,Batom Líquido,Maquiagem,5,27.99
+34586.0,07/11/2023,Batom Líquido,Maquiagem,5,27.99
+74522.0,07/11/2023,Sabonete Facial,Cuidados com a pele,4,25.99
+41535.0,08/11/2023,Hidratante Facial,Cuidados com a pele,5,44.99
+34151.0,08/11/2023,Batom,Maquiagem,3,29.9
+55678.0,09/11/2023,Shampoo,Cuidados com os cabelos,5,18.5
+41535.0,10/11/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+55678.0,10/11/2023,Shampoo,Cuidados com os cabelos,2,18.5
+35658.0,10/11/2023,Condicionador,Cuidados com os cabelos,3,21.5
+13535.0,11/11/2023,Esmalte Rosa,Unhas,2,9.9
+87765.0,11/11/2023,Protetor solar,Cuidados com a pele,3,50.0
+87725.0,11/11/2023,Sabonete Líquido,Cuidados com o corpo,6,11.99
+35367.0,11/11/2023,Creme para Mãos,Cuidados com o corpo,5,18.75
+78675.0,13/11/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+16532.0,13/11/2023,Óleo Capilar,Cuidados com os cabelos,5,14.99
+78675.0,14/11/2023,Kit Pincéis de Maquiagem,Maquiagem,1,49.99
+54321.0,14/11/2023,Creme para Mãos,Cuidados com o corpo,1,18.75
+66654.0,15/11/2023,Tônico Capilar,Cuidados com os cabelos,4,30.99
+34151.0,15/11/2023,Batom,Maquiagem,4,29.9
+83241.0,16/11/2023,Protetor Térmico para Cabelos,Cuidados com os cabelos,1,31.99
+13535.0,16/11/2023,Esmalte vermelho,Unhas,1,9.99
+77565.0,17/11/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+77565.0,18/11/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+77564.0,18/11/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77567.0,18/11/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+34151.0,20/11/2023,Batom,Maquiagem,3,29.9
+34151.0,21/11/2023,Batom,Maquiagem,2,29.9
+13535.0,22/11/2023,Esmalte vermelho,Unhas,5,9.99
+81196.0,22/11/2023,Máscara Capilar,Cuidados com os cabelos,3,21.99
+98111.0,23/11/2023,Removedor de Maquiagem,Maquiagem,3,9.99
+98111.0,24/11/2023,Removedor de Maquiagem,Maquiagem,3,11.99
+13535.0,24/11/2023,Esmalte vermelho,Unhas,4,9.99
+13535.0,25/11/2023,Esmalte vermelho,Unhas,4,9.99
+77564.0,25/11/2023,Shampoo Matizador,Cuidados com os cabelos,5,26.99
+77565.0,25/11/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+98111.0,25/11/2023,Removedor de Maquiagem,Maquiagem,4,11.99
+87765.0,27/11/2023,Protetor solar,Cuidados com a pele,1,50.0
+77564.0,28/11/2023,Shampoo Matizador,Cuidados com os cabelos,1,26.99
+87765.0,28/11/2023,Protetor solar,Cuidados com a pele,1,50.0
+87765.0,29/11/2023,Protetor solar,Cuidados com a pele,1,50.0
+13535.0,29/11/2023,Esmalte vermelho,Unhas,1,9.99
+13535.0,30/11/2023,Esmalte vermelho,Unhas,2,9.99
+34151.0,30/11/2023,Batom,Maquiagem,2,29.9
+34151.0,01/12/2023,Batom,Maquiagem,2,29.9
+41535.0,01/12/2023,Hidratante Facial,Cuidados com a pele,3,44.99
+34151.0,02/12/2023,Batom,Maquiagem,1,29.9
+77564.0,02/12/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77565.0,04/12/2023,Condicionador Matizador,Cuidados com os cabelos,4,29.99
+77567.0,04/12/2023,Kit Matizador Shampoo e Condicionador,Cuidados com os cabelos,1,61.99
+34151.0,04/12/2023,Batom,Maquiagem,1,29.9
+34151.0,05/12/2023,Batom,Maquiagem,1,29.9
+13535.0,05/12/2023,Esmalte vermelho,Unhas,2,9.99
+81196.0,05/12/2023,Máscara Capilar,Cuidados com os cabelos,3,21.99
+98111.0,06/12/2023,Removedor de Maquiagem,Maquiagem,1,9.99
+13535.0,06/12/2023,Esmalte vermelho,Unhas,3,9.99
+13535.0,07/12/2023,Esmalte vermelho,Unhas,2,9.99
+77564.0,07/12/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,08/12/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,08/12/2023,Esmalte vermelho,Unhas,5,9.99
+77565.0,09/12/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+13535.0,09/12/2023,Esmalte vermelho,Unhas,2,9.99
+34151.0,09/12/2023,Batom,Maquiagem,4,29.9
+41535.0,09/12/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+87765.0,09/12/2023,Protetor solar,Cuidados com a pele,5,50.0
+77565.0,11/12/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+34151.0,12/12/2023,Batom,Maquiagem,1,29.9
+98111.0,13/12/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+13535.0,14/12/2023,Esmalte vermelho,Unhas,1,9.99
+77564.0,15/12/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,16/12/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+13535.0,18/12/2023,Esmalte vermelho,Unhas,2,9.99
+34151.0,18/12/2023,Batom,Maquiagem,3,29.9
+87765.0,18/12/2023,Protetor solar,Cuidados com a pele,3,50.0
+87765.0,19/12/2023,Protetor solar,Cuidados com a pele,1,50.0
+87765.0,20/12/2023,Protetor solar,Cuidados com a pele,2,50.0
+77564.0,20/12/2023,Shampoo Matizador,Cuidados com os cabelos,3,26.99
+77565.0,21/12/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+13535.0,21/12/2023,Esmalte vermelho,Unhas,1,9.99
+77565.0,22/12/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+13535.0,22/12/2023,Esmalte vermelho,Unhas,5,9.99
+34151.0,23/12/2023,Batom,Maquiagem,1,29.9
+41535.0,23/12/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+87765.0,23/12/2023,Protetor solar,Cuidados com a pele,1,50.0
+77565.0,23/12/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+98111.0,23/12/2023,Removedor de Maquiagem,Maquiagem,1,9.99
+13535.0,23/12/2023,Esmalte vermelho,Unhas,3,9.99
+87765.0,26/12/2023,Protetor solar,Cuidados com a pele,4,50.0
+41535.0,26/12/2023,Hidratante Facial,Cuidados com a pele,2,44.99
+34151.0,26/12/2023,Batom,Maquiagem,1,29.9
+13535.0,26/12/2023,Esmalte vermelho,Unhas,4,9.99
+41535.0,27/12/2023,Hidratante Facial,Cuidados com a pele,1,44.99
+77565.0,27/12/2023,Condicionador Matizador,Cuidados com os cabelos,1,29.99
+34151.0,27/12/2023,Batom,Maquiagem,1,29.9
+98111.0,27/12/2023,Removedor de Maquiagem,Maquiagem,2,9.99
+13535.0,28/12/2023,Esmalte vermelho,Unhas,1,9.99
+77564.0,28/12/2023,Shampoo Matizador,Cuidados com os cabelos,2,26.99
+77565.0,28/12/2023,Condicionador Matizador,Cuidados com os cabelos,2,29.99
+13535.0,29/12/2023,Esmalte vermelho,Unhas,3,9.99
+34151.0,29/12/2023,Batom,Maquiagem,3,29.9
+87765.0,29/12/2023,Protetor solar,Cuidados com a pele,4,50.0
+87765.0,30/12/2023,Protetor solar,Cuidados com a pele,4,50.0
+77564.0,30/12/2023,Shampoo Matizador,Cuidados com os cabelos,5,26.99
+77565.0,30/12/2023,Condicionador Matizador,Cuidados com os cabelos,3,29.99
+13535.0,30/12/2023,Esmalte vermelho,Unhas,4,9.99
+34151.0,30/12/2023,Batom,Maquiagem,5,29.9
+41535.0,30/12/2023,Hidratante Facial,Cuidados com a pele,6,44.99
